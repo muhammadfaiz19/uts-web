@@ -1,0 +1,12 @@
+{
+    "name": "paiss/uts-web-1-2024",
+    "authors": [
+        {
+            "name": "muhammadfaiz19",
+            "email": "mfaiz2727@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
